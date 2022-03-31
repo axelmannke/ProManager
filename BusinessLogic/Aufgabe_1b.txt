@@ -1,0 +1,4 @@
+﻿Das abgebildete UML stellt Objektbeziehungen nicht korrekt dar. 
+In welcher Objektbeziehung stehen die Klassen Staff und Department? 
+Analysieren Sie den Quellcode und begründen Sie Ihre Antwort.
+
